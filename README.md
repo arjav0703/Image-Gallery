@@ -1,21 +1,19 @@
 # Image Gallery
 
-Welcome to the **France Image Gallery**! This webpage showcases a collection of stunning images capturing the beauty of France. Whether you're looking to be inspired by the scenic landscapes, iconic landmarks, or the rich culture of France, this gallery has something for everyone.
 
 ## Overview
 [![Live Webpage](https://cloud-9wgpmmgci-hack-club-bot.vercel.app/0image.png)](https://arjav0703.github.io/Image-Gallery/)
-This is a simple, visually engaging webpage built using **HTML** and **CSS**. The page features a collection of images representing various aspects of France. The layout is designed to be clean ensuring that the images look great.
+This is a simple, visually engaging webpage built using **HTML** and **CSS**. 
 
 ## Features
 
-- **Beautiful Image Collection**: Displays multiple images of France.
 - **Simple, Clean Layout**: The design prioritizes the images while maintaining a user-friendly experience.
 - **Hover Effects**: Some images have hover effects to make the gallery more interactive.
 
 ## Technologies Used
 
 - **HTML5**: The structure and layout of the webpage are built using semantic HTML elements.
-- **CSS3**: Styling of the webpage, including layout, fonts, and hover effects, is done using CSS.
+- **CSS**: Styling of the webpage, including layout, fonts, and hover effects, is done using CSS.
 
 ## How to View
 
@@ -29,7 +27,7 @@ This is a simple, visually engaging webpage built using **HTML** and **CSS**. Th
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-## Special thanks to Unplash for images 
+## Special thanks to ME for images 
 ---
 
 Enjoy browsing through the beautiful images of France!
